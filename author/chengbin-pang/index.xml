@@ -5,12 +5,36 @@
     <link>pangbin2415.github.io/author/chengbin-pang/</link>
       <atom:link href="pangbin2415.github.io/author/chengbin-pang/index.xml" rel="self" type="application/rss+xml" />
     <description>Chengbin Pang</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/pangbin2415.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Chengbin Pang</title>
       <link>pangbin2415.github.io/author/chengbin-pang/</link>
     </image>
+    
+    <item>
+      <title>SoK: All You Ever Wanted to Know About x86/x64 Binary Disassembly But Were Afraid to Ask</title>
+      <link>pangbin2415.github.io/publication/sok-sp-20/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>pangbin2415.github.io/publication/sok-sp-20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mapping to bits: Efficiently detecting type confusion errors</title>
+      <link>pangbin2415.github.io/publication/pang-2018-mapping/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>pangbin2415.github.io/publication/pang-2018-mapping/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>To detect stack buffer overflow with polymorphic canaries</title>
+      <link>pangbin2415.github.io/publication/wang-2018-detect/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>pangbin2415.github.io/publication/wang-2018-detect/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
