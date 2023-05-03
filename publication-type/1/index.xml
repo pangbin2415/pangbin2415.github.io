@@ -5,7 +5,7 @@
     <link>pangbin2415.github.io/publication-type/1/</link>
       <atom:link href="pangbin2415.github.io/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/pangbin2415.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>1</title>
@@ -13,15 +13,23 @@
     </image>
     
     <item>
-      <title>SoK: All You Ever Wanted to Know About x86/x64 Binary Disassembly But Were Afraid to Ask</title>
-      <link>pangbin2415.github.io/publication/sok-sp-20/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>pangbin2415.github.io/publication/sok-sp-20/</guid>
+      <title>Debloating Address Sanitizer (Usenix Security 2022)</title>
+      <link>pangbin2415.github.io/publication/zhang-2022-debloating/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>pangbin2415.github.io/publication/zhang-2022-debloating/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Towards Optimal Use of Exception Handling Information for Function Detection</title>
+      <title>Ground Truth for Binary Disassembly is Not Easy (Usenix Security 2022)</title>
+      <link>pangbin2415.github.io/publication/pang-2022-ground/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>pangbin2415.github.io/publication/pang-2022-ground/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards Optimal Use of Exception Handling Information for Function Detection (DSN 2021)</title>
       <link>pangbin2415.github.io/publication/pang-2021-towards/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
       <guid>pangbin2415.github.io/publication/pang-2021-towards/</guid>
@@ -29,7 +37,7 @@
     </item>
     
     <item>
-      <title>Mapping to bits: Efficiently detecting type confusion errors</title>
+      <title>Mapping to bits: Efficiently detecting type confusion errors (ACSAC 2018)</title>
       <link>pangbin2415.github.io/publication/pang-2018-mapping/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       <guid>pangbin2415.github.io/publication/pang-2018-mapping/</guid>
@@ -37,7 +45,7 @@
     </item>
     
     <item>
-      <title>To detect stack buffer overflow with polymorphic canaries</title>
+      <title>To detect stack buffer overflow with polymorphic canaries (DSN 2018)</title>
       <link>pangbin2415.github.io/publication/wang-2018-detect/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       <guid>pangbin2415.github.io/publication/wang-2018-detect/</guid>
